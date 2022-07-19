@@ -3,7 +3,7 @@ function App() {
   return (
     <div>
       <h1>My Todos</h1>
-      <Todo />
+      <Todo text="You must send an Email today by name M.Ahmed" />
     </div>
   );
 }
